@@ -1,0 +1,41 @@
+
+body{
+   text-align: center;
+}
+
+.qr-code{
+    background-color: hsl(219, 47%, 57%);
+    border-radius: 2px;
+    word-break: unset;
+    height: 89vh;
+}
+
+.qrcode {
+    background: rgb(254, 253, 253);
+    border-radius: 4%;
+    position: absolute;
+    width: 285px;
+    top: 45%;
+    transform: translate(-50%, -50%);
+}
+
+img{
+    position: relative;
+    color: blue;
+    border-radius: 3%;
+    width: 16rem;
+    margin-top: 10px;
+    margin-bottom: 10%;
+}
+
+.text{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5%;
+    font-weight: 700;
+}
+
+.text2{
+    padding: 10%;
+    font-weight: 400;
+}
